@@ -1,5 +1,13 @@
 # @nhost/react-apollo
 
+## 4.0.13
+
+### Patch Changes
+
+- f6093a6: Introduce useAuthSubscription
+- Updated dependencies [f6093a6]
+  - @nhost/apollo@0.4.0
+
 ## 4.0.12
 
 ### Patch Changes
